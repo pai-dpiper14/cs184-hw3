@@ -1,0 +1,31 @@
+xs {
+    font-family: Arial, sans-serif;
+    color: #8D82E2
+}
+
+header { 
+    display:block;
+    background: #F2F2F2;
+}
+
+#container{
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #666;
+  background: #ffffff;
+}
+
+p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+text {
+  font: 10px sans-serif;
+}
+
+form {
+  position: relative;
+  right: 10px;
+  top: 10px;
+}
